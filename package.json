@@ -1,0 +1,38 @@
+{
+  "name": "cspolska-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1DevProjects/cspolska-bot.git"
+  },
+  "keywords": [
+    "the",
+    "m.",
+    "discord",
+    "bot",
+    "csgo",
+    "polska",
+    "warn",
+    "inventory",
+    "steam",
+    "ban",
+    "automod"
+  ],
+  "author": "m.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1DevProjects/cspolska-bot/issues"
+  },
+  "homepage": "https://github.com/m1DevProjects/cspolska-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
