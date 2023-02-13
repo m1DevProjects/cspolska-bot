@@ -30,7 +30,8 @@
   },
   "homepage": "https://github.com/m1DevProjects/cspolska-bot#readme",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "eslint": "^8.34.0"
